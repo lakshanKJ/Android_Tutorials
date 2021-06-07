@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dialler Keypad</string>
+    <string name="phone_label_string">Phone</string>
+    <string name="enter_phone_hint">Enter phone</string>
+</resources>
